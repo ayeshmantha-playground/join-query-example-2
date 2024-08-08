@@ -69,13 +69,8 @@ VALUES ('kasun', 'Kasun Sampath', 'kasun123'),
        ('upul', 'Upul Tharanga', 'upul123'),
        ('asiri', 'Asiri Kariyawasam', 'asiri123');
 
-INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD001','C001','amal123');
-INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD002','C001','amal123');
-INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD003','C002','kamal123');
-INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD004','C002','kamal123');
-INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD005','C002','kamal123');
-INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD006','C005','sadun123');
-INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD007','C007','sadun123');
-INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD008','C007','sadun123');
-INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD009','C003','kamidu123');
-INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD010','C010','nimal123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD001','2024-01-01','C001','kasun123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD002','2024-01-01','C002','nuwan123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD003','2024-01-01','C003','upul123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD004','2024-01-01','C004','ruwan123');
+INSERT INTO "order" (id, date, customer_id, username) VALUES ('OD005','2024-01-01','C005','asiri123');
